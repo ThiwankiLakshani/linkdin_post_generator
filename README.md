@@ -24,7 +24,7 @@ pip install -r requirements.txt
 To get a local copy of the project, run:
 
 ```sh
-git clone https://github.com/yourusername/linkedin-post-generator.git
+https://github.com/ThiwankiLakshani/linkdin_post_generator.git
 cd linkedin-post-generator
 ```
 
@@ -71,8 +71,9 @@ This project is open-source and available under the **MIT License**.
 
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/linkedin-post-generator/issues)
+- **Email**: thilakshi.samaraweera268@gmail.com
+  
+- **GitHub Issues**: [Open an issue](https://github.com/ThiwankiLakshani/linkdin_post_generator.git)
 
 ---
 🚀 **Happy Posting!**

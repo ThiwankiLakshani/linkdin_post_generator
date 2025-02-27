@@ -1,0 +1,3 @@
+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
+
+python -m streamlit run main.py
